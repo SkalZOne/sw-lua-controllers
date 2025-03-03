@@ -37,7 +37,7 @@
 
 <!-- Demonstration -->
 <h2><a id="demo">Demonstration</a></h2>
-![](./demo.gif)
+<img src="./demo.gif">
 
 <!-- Installation -->
 <h2><a id="installation">Installation</a></h2>
@@ -61,7 +61,7 @@
 <li>
     <a id="setup-logic">Setup logic</a>
     <br>
-    ![](ReadmeImgs/setup-logic.mp4)
+    <img src="ReadmeImgs/setup-logic.gif">
 </li>
 
 <!-- Setup symbol -->
