@@ -1,5 +1,5 @@
 <!-- Controller name -->
-<h1>Stormworks Lua Auto Starter</h1>
+<h1>Stormworks Lua PID</h1>
 
 <!-- Translates -->
 [![ru](https://img.shields.io/badge/lang-ru-blue.svg)](./README_ru.md)
