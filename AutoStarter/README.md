@@ -41,24 +41,28 @@
 <!-- Create new microcontroller -->
 <li>
     <a id="new-microcontroller">Create new microcontroller</a>
+    <br>
     <img src="ReadmeImgs/create_microcontroller.png">
 </li>
 
 <!-- Setup props -->
 <li>
     <a id="setup-properties">Setup properties</a>
+    <br>
     <img src="ReadmeImgs/setup-props.png">
 </li>
 
 <!-- Setup logic -->
 <li>
     <a id="setup-logic">Setup logic</a>
+    <br>
     <img src="ReadmeImgs/setup-logic.png">
 </li>
 
 <!-- Setup symbol -->
 <li>
     <a id="setup-symbol">Setup symbol</a>
+    <br>
     <img src="ReadmeImgs/setup-symbol.png">
 </li>
 
@@ -68,14 +72,17 @@
     <ul>
         <li>
             Go to edit logic
+            <br>
             <img src="ReadmeImgs/setup-logic-properly.png">
         </li>
         <li>
             Setup properly logic in controller
+            <br>
             <img src="ReadmeImgs/logicProperly/all-logic.png">
         </li>
         <li>
             Go to Lua Script and press "Edit Script"
+            <br>
             <img src="ReadmeImgs/logicProperly/edit-script.png">
         </li>
         <li>
@@ -90,14 +97,17 @@
     <ul>
         <li>
             Go to save button
+            <br>
             <img src="ReadmeImgs/goto-save-btn.png">
         </li>
         <li>
             Press plus button
+            <br>
             <img src="ReadmeImgs/plus-btn.png">
         </li>
         <li>
             Enter a name for this controller
+            <br>
             <img src="ReadmeImgs/controller-name.png">
         </li>
     </ul>

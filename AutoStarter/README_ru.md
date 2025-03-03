@@ -41,24 +41,28 @@
 <!-- Create new microcontroller -->
 <li>
     <a id="new-microcontroller">Создайте новый контроллер</a>
+    <br>
     <img src="ReadmeImgs/create_microcontroller.png">
 </li>
 
 <!-- Setup props -->
 <li>
     <a id="setup-properties">Настройте параметры контроллера</a>
+    <br>
     <img src="ReadmeImgs/setup-props.png">
 </li>
 
 <!-- Setup logic -->
 <li>
     <a id="setup-logic">Настройте логику контроллера</a>
+    <br>
     <img src="ReadmeImgs/setup-logic.png">
 </li>
 
 <!-- Setup symbol -->
 <li>
     <a id="setup-symbol">Настройте символ контроллера</a>
+    <br>
     <img src="ReadmeImgs/setup-symbol.png">
 </li>
 
@@ -68,14 +72,17 @@
     <ul>
         <li>
             Перейдите в редактирование логики
+            <br>
             <img src="ReadmeImgs/setup-logic-properly.png">
         </li>
         <li>
             Установите всю логику как на скриншоте ниже
+            <br>
             <img src="ReadmeImgs/logicProperly/all-logic.png">
         </li>
         <li>
             Перейдите в блок "Lua Script" и нажмите "Edit Script"
+            <br>
             <img src="ReadmeImgs/logicProperly/edit-script.png">
         </li>
         <li>
@@ -90,14 +97,17 @@
     <ul>
         <li>
             Нажмите на кнопку сохранения
+            <br>
             <img src="ReadmeImgs/goto-save-btn.png">
         </li>
         <li>
             Нажмите на кнопку с иконкой плюса
+            <br>
             <img src="ReadmeImgs/plus-btn.png">
         </li>
         <li>
             Введите имя контроллера
+            <br>
             <img src="ReadmeImgs/controller-name.png">
         </li>
     </ul>
